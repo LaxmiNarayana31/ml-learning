@@ -15,3 +15,5 @@
 * **𝐋𝐨𝐑𝐀 (2021)** → [https://arxiv.org/pdf/2106.09685](https://arxiv.org/pdf/2106.09685)
 
 * **𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥-𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧 (2020)** → [https://arxiv.org/pdf/2005.11401](https://arxiv.org/pdf/2005.11401)
+
+* **AlexNet Paper** -> ["https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf"]
